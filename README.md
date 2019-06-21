@@ -11,8 +11,8 @@ Stanford [STATS 191 Introduction to Applied Statistics](https://web.stanford.edu
 4. [Diagnostics for simple linear regression](https://github.com/DoosanJung/StanfordStats191/blob/master/4_simple_regression_diagnostics.ipynb)
 5. [Multiple linear regression](https://github.com/DoosanJung/StanfordStats191/blob/master/5_multiple_linear_regression.ipynb)
 6. [Diagnostics for multiple linear regression - part1](https://github.com/DoosanJung/StanfordStats191/blob/master/6_diagnostics_in_multiple_linear_regression_part1.ipynb) & [part2](https://github.com/DoosanJung/StanfordStats191/blob/master/6_diagnostics_in_multiple_linear_regression_part2.ipynb)
-7. Interactions and qualitative variables
-8. Analysis of variance
+7. [Interactions and qualitative variables](https://github.com/DoosanJung/stanford-stats191-python/blob/master/7_interactions_qualitative_variables.ipynb)
+8. [Analysis of variance](https://github.com/DoosanJung/stanford-stats191-python/blob/master/8_Analysis_of_variance.ipynb)
 9. Transformations and Weighted Least Squares
 10. Correlated errors
 11. Bootstrapping regression
