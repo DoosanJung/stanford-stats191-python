@@ -3,7 +3,7 @@ Stanford [STATS 191 Introduction to Applied Statistics](https://web.stanford.edu
 
 
 
-##[Topics](https://web.stanford.edu/class/stats191/#topics)
+[Topics](https://web.stanford.edu/class/stats191/#topics)
 
 1. Course introduction and review - no plans to copy
 2. Some tips on R - no plans to copy
