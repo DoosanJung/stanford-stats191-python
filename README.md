@@ -16,7 +16,7 @@ Stanford [STATS 191 Introduction to Applied Statistics](https://web.stanford.edu
 9. [Transformations and Weighted Least Squares](https://github.com/DoosanJung/stanford-stats191-python/blob/master/9_transformations_wls.ipynb)
 10. [Correlated errors](https://github.com/DoosanJung/stanford-stats191-python/blob/master/10_correlated_errors.ipynb)
 11. Bootstrapping regression
-12. Selection
+12. [Selection](https://github.com/DoosanJung/stanford-stats191-python/blob/master/12_selection.ipynb)
 13. Penalized regression
 14. Logistic
 15. Poisson
